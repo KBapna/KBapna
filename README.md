@@ -90,7 +90,8 @@
    &emsp;
 	<br></br>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" width="75" height="20"></a>
-
+   &emsp;
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" width="75" height="20"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
@@ -105,11 +106,11 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" width="75" height="20"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white" width="75" height="20"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" width="75" height="20"></a>
 </p>
 
 </br></br></br>
