@@ -87,6 +87,8 @@
     <a href="#"><img alt="Virtual Box" src="https://img.shields.io/badge/virtualbox-%23183A61.svg?&style=for-the-badge&logo=virtualbox&logoColor=white"width="75" height="20"></a>
   &emsp;
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" width="75" height="20"></a>
+  &emsp;
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" width="75" height="20"></a>
 
 </p>
 
