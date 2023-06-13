@@ -12,7 +12,7 @@
 - :school: I am a `Student` at [Vellore Institute Of Technology](https://vitbhopal.ac.in/).
 - :trophy: Avid `Gammer`.
 - :technologist: I love using Cloud as a solution for every `Problem`.
-- :computer: I am a enthusiastic in `Netwotking`, `Cloud`, `Virtualization`, `Dockers`, `Automation`.
+- :computer: I am a enthusiastic in `Networking`, `Cloud`, `Virtualization`, `Dockers`, `Automation`.
 - :student: I’m currently learning `Computer Science` and `Cloud`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1RtCUaLcqP-RctcFwtYoGCa5C2HSKTQpv/view?usp=sharing).
