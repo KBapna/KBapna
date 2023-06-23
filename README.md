@@ -10,7 +10,7 @@
 <br><br>
 
 - :school: I am a `Student` at [Vellore Institute Of Technology](https://vitbhopal.ac.in/).
-- :trophy: Avid `Gammer`.
+- :trophy: Avid `Gamer`.
 - :technologist: I love using Cloud as a solution for every `Problem`.
 - :computer: I am a enthusiastic in `Networking`, `Cloud`, `Virtualization`, `Dockers`, `Automation`.
 - :student: I’m currently learning `Computer Science` and `Cloud`.
