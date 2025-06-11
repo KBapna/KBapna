@@ -37,14 +37,14 @@
 
 <p align="center">
   &emsp;
-  <a href="mailto:example@gmail.com">
+  <a href="mailto:kbapna.1@gmail.com">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       height="28" alt="Gmail"
     />
   </a>
   &emsp;
-  <a href="https://wa.me/XXXXXXXXXX">
+  <a href="https://wa.me/917597680028">
     <img 
       src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
       height="28" alt="WhatsApp"
