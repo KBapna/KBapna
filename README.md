@@ -130,12 +130,12 @@
     src="https://img.shields.io/badge/Pen_Testing-Home_Lab-informational?style=for-the-badge&logo=kalilinux" 
     height="25" alt="Pen Testing"
   />
+  <br><br>
   &emsp;
   <img 
     src="https://img.shields.io/badge/Whisper-Captioning-black?style=for-the-badge" 
     height="25" alt="Whisper Captioning"
   />
-  <br><br>
   &emsp;
   <img 
     src="https://img.shields.io/badge/GPU-Accelerated_Triggerbot-red?style=for-the-badge&logo=pytorch" 
@@ -211,6 +211,7 @@
     src="https://img.shields.io/badge/Aircrack--ng-Wireless_red?style=for-the-badge&logo=aircrack-ng" 
     height="25" alt="Aircrack-ng"
   />
+  <br><br>
   &emsp;
   <img 
     src="https://img.shields.io/badge/SQLMap-Database_testing-red?style=for-the-badge&logo=sqlmap" 
@@ -353,6 +354,7 @@
     src="https://img.shields.io/badge/Electronics-0052CC?style=for-the-badge&logo=arduino&logoColor=white" 
     height="25" alt="Electronics"
   />
+  <br><br>
   &emsp;
   <img 
     src="https://img.shields.io/badge/Chess-000000?style=for-the-badge" 
@@ -380,12 +382,12 @@
     src="https://img.shields.io/badge/Home_Assistant-Automation-blue?style=for-the-badge&logo=home-assistant&logoColor=white" 
     height="25" alt="Home Assistant"
   />
+  <br><br>
   &emsp;
   <img 
     src="https://img.shields.io/badge/OPNsense-Firewall-orange?style=for-the-badge&logo=letsencrypt&logoColor=white" 
     height="25" alt="OPNsense"
   />
-  <br><br>
   &emsp;
   <img 
     src="https://img.shields.io/badge/VPN-Gateway-1192E8?style=for-the-badge&logo=openvpn&logoColor=white" 
