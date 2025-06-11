@@ -139,15 +139,15 @@
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Analysis-orange?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 &nbsp;&nbsp;
 [![Wireshark](https://img.shields.io/badge/Wireshark-Network-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-&nbsp;&nbsp;
-[![Nmap](https://img.shields.io/badge/Nmap-Port_Scanner-005F87?style=for-the-badge&logo=kalilinux&logoColor=white)](https://nmap.org/)
 <br><br>
+[![Nmap](https://img.shields.io/badge/Nmap-Port_Scanner-005F87?style=for-the-badge&logo=kalilinux&logoColor=white)](https://nmap.org/)
+&nbsp;&nbsp;
 [![Hashcat](https://img.shields.io/badge/Hashcat-Password_Cracker-F09F13?style=for-the-badge&logo=kalilinux&logoColor=white)](https://hashcat.net/hashcat/)
 &nbsp;&nbsp;
 [![John the Ripper](https://img.shields.io/badge/John_the_Ripper-Password_Cracker-186ABD?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.openwall.com/john/)
-&nbsp;&nbsp;
-[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-WiFi-Red?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.aircrack-ng.org/)
 <br><br>
+[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-WiFi-Red?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.aircrack-ng.org/)
+&nbsp;&nbsp;
 [![SQLMap](https://img.shields.io/badge/SQLMap-Database_Testing-AA0000?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlmap.org/)
 
 </div>
@@ -227,7 +227,7 @@
 [![Cube Solving](https://img.shields.io/badge/Cube_Solving-1E1E1E?style=for-the-badge&logo=openbadges&logoColor=white)](https://github.com/KBapna)
 &nbsp;&nbsp;
 [![PC Gaming](https://img.shields.io/badge/PC_Gaming-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://github.com/KBapna)
-&nbsp;&nbsp;
+<br><br>
 [![Electronics](https://img.shields.io/badge/Electronics-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/KBapna)
 
 </div>
