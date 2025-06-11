@@ -66,10 +66,11 @@
 
 <p align="center">
   &emsp;
+  <a href="https://github.com/KBapna">
   <img 
     src="https://img.shields.io/badge/CEH-EC--Council-blue?style=for-the-badge" 
     height="25" alt="CEH"
-  />
+  /></a>
   &emsp;
   <img 
     src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-orange?style=for-the-badge&logo=amazon-aws" 
@@ -331,13 +332,13 @@
   />
   &emsp;
   <img 
-    src="https://img.shields.io/badge/CTFs-0F4C81?style=for-the-badge" 
+    src="https://img.shields.io/badge/CTF-0F4C81?style=for-the-badge" 
     height="25" alt="CTFs"
   />
-  &emsp;
+   &emsp;
   <img 
-    src="https://img.shields.io/badge/Reading_Books-6F4E37?style=for-the-badge" 
-    height="25" alt="Reading"
+    src="https://img.shields.io/badge/Chess-000000?style=for-the-badge" 
+    height="25" alt="Chess"
   />
   &emsp;
   <img 
@@ -357,8 +358,8 @@
   <br><br>
   &emsp;
   <img 
-    src="https://img.shields.io/badge/Chess-000000?style=for-the-badge" 
-    height="25" alt="Chess"
+    src="https://img.shields.io/badge/Reading_Books-6F4E37?style=for-the-badge" 
+    height="25" alt="Reading"
   />
 </p>
 
