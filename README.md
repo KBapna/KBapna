@@ -204,9 +204,9 @@
 &nbsp;&nbsp;
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 &nbsp;&nbsp;
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 &nbsp;&nbsp;
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=webcomponents.org&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=webcomponents.org&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 </div>
 
